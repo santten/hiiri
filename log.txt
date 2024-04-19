@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------------------------
+hiiri devlogs
+--------------------------------------------------------------------------------------------
+
+1.0 (19.4.2024)
+
+- first time putting it up on github! Yay
+- this version has the following tools: Default, Line, Rectangle (both filled and not filled), Eraser, Text add + undo, clear file button and a button for saving the canvas png on your device
+- 12 preset colors
+- canvas coordination tracking
+- canvas size and brush size can be modified
+- neat white css
+- you can consider development was started on 18.1.2024, though it was put to the back for most of spring 2024 for the sake of prioritising school
